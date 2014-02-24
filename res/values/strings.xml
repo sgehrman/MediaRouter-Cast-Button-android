@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaRouter</string>
+    <string name="app_id">YOUR_APP_ID</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="media_router_discovery">Media Router Discovery</string>
+    <string name="media_router_button">Media Router Button</string>
+    <string name="media_router_action_bar_button">Media Router Action Bar Button</string>
+    <string name="media_router_chooser_dialog_button">Media Router Custom Chooser Dialog</string>
+    <string name="media_router_custom_dialog_button">Media Router Custom Dialog Button</string>
+    <string name="custom_media_router_control_dialog_text">Custom Dialog Text</string>
+    <string name="todo_connect">This app will not launch an application.</string>
+    <string name="custom_dialog">Click on Cast button for custom dialog.</string>
+
+</resources>
